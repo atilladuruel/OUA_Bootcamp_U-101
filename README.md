@@ -1,14 +1,15 @@
 # **Takım İsmi**
 
-Takım Flutter 52
+xxx
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Atilla Duruel: Developer
+- Burak Seki: Product Owner 
+- Fatma Sare Duman: Scrum Master
+- Nurbanu Bayatlı: Developer
+- Ömer Çiftçi: Developer
 
 ## Ürün İsmi
 
@@ -20,7 +21,7 @@ Takım Flutter 52
 
 ## Ürün Açıklaması
 
-Scrap App, daire sakinleri tarafından biriktirilmiş apartman ve sitelere ait kıymetli geri dönüşüm atıklarının, geri dönüştürülebilir atık toplayan firmalar tarafından toplanmasını kolaylaştırır ve apartman yönetimlerinin bir gelir kalemi olarak geri dönüşüm ödemesi almalarını sağlar. Ayrıca hurda ilanı verilebilen bu uygulamada kullanıcılar biriktirdikleri, bakır, demir, çelik, alüminyum, kağıt, cam vb hurdaların satışını ilanlar ile yapabilir. Scrap App, geri dönüştürülebilir atıkların kıymetinine önem verir, apartman ve site gibi, insanların blok halde yaşadığı mekanlarda, onların geri dönüşüm atıklarını topluca biriktirmelerini teşvik eder ve kolaylaştırır. Scrap App kağıt, metal, plastik cam vb ürünlerin geri dönüştürülmesi halinde, insanların kendisi, çevresi ve ülkesi için maddi gelir ve Dünya doğası için sürekli fayda sağlayabileceğini savunur ve geri dönüşüm sayesinde yeniden üretim ve madencilik faaliyetlerinin azaltılabileceğini ve böylece yeniden üretim kaynaklı doğaya olan zararın azaltılması gerektiği fikrini destekler ve yeniden kazanımı hedefler.
+Ana karakterimiz herhangi bir nedenden dolayı ölüdür ve Yeraltı dünyasına göçer ve yeryüzünde onun ölümüne neden olan bir ruhla birlikte Yeraltına gider. Oradan çıkmak için Yeryüzünde her zaman kendine engel olan sezgileri toplar veya savaşır. Sezgileri topladıkça yanımızda bulunan hayvan totemi şeklindeki şaman bizim seviye atlamamıza, canımızı iyileştirmemize yardımcı olur. Son level da onun yeraltına göçmesine neden olan ruhla son kapışma yapar ve karakterimiz artık onun ruhuna sahiptir. Ama Ana karakterimiz artık yeryüzüne dönemez çünkü onu buraya getiren ruhu yenmek için açgözlülüğe kapılmış ve yeryüzüyle olan bağlantısını kaybetmiştir.
 
 
 - **Uygulama birincil fonksiyonu**: Apartman/site sakinlerinin geri dönüşebilir kıymetli atıkları apartman hizmetlisi tarafından düzenli olarak toplanarak, akıllı geri dönüşüm kutusunda biriktirilir, toplayıcı firma biriken atıklara ilişkin kutu doluluk oranını uygulama üzerinden görür ve satın alma teklifini apartman yönetimine uygulama ile bildirir, apartman yönetiminin teklif onayından sonra, atık satın alma işlemi gerçekleşir.
