@@ -79,7 +79,7 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 - **Sprint board update**: 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  [![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
+  ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
   ![Screenshot 2](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/ffacf45b928d07f2acd2b575c7013d732fbfc427/ProjectManagement/Sprint1Documents/kod2.jpeg)
   
 - **Sprint Review**: 
