@@ -44,14 +44,14 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 
 ## Ürün Özellikleri
 
--Oyuncular geniş bir Yeraltı dünyasını keşfeder ve farklı bölgelerde maceralara atılır.
--Yeraltı dünyası çeşitli atmosferik mekanlara sahip olabilir, örneğin karanlık mağaralar, labirentler, esrarengiz tapınaklar vb.
--Gizli alanlar ve keşfedilmeyi bekleyen sırlar oyuncuları ödüllendirir.
--Oyuncular ilerlemek için çeşitli bulmacaları çözerler. Bu bulmacalar mantık, hafıza, dikkat veya reaksiyon gerektirir.
--Oyun ilerledikçe bulmacaların karmaşıklığı artabilir ve oyuncuların daha ileri düşünme ve problem çözme becerilerini kullanmalarını gerektirir.
--Zorluklar, platform atlama bölümleri, engelleri aşma görevleri veya zamanla yarışma gibi çeşitli şekillerde sunulmaktadır.
--Ana karakter, görevleri tamamlayarak sezgi puanı kazanır ve seviye atlar.
--Karakterin özelliklerini geliştirmek için kazanılan sezgi puanları kullanılabilir.
+- Oyuncular geniş bir Yeraltı dünyasını keşfeder ve farklı bölgelerde maceralara atılır.
+- Yeraltı dünyası çeşitli atmosferik mekanlara sahip olabilir, örneğin karanlık mağaralar, labirentler, esrarengiz tapınaklar vb.
+- Gizli alanlar ve keşfedilmeyi bekleyen sırlar oyuncuları ödüllendirir.
+- Oyuncular ilerlemek için çeşitli bulmacaları çözerler. Bu bulmacalar mantık, hafıza, dikkat veya reaksiyon gerektirir.
+- Oyun ilerledikçe bulmacaların karmaşıklığı artabilir ve oyuncuların daha ileri düşünme ve problem çözme becerilerini kullanmalarını gerektirir.
+- Zorluklar, platform atlama bölümleri, engelleri aşma görevleri veya zamanla yarışma gibi çeşitli şekillerde sunulmaktadır.
+- Ana karakter, görevleri tamamlayarak sezgi puanı kazanır ve seviye atlar.
+- Karakterin özelliklerini geliştirmek için kazanılan sezgi puanları kullanılabilir.
 
 ## Hedef Kitle
 
