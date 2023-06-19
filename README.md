@@ -116,7 +116,7 @@ Sprint Review katılımcıları: Tüm Takım
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Takım üyelerinin gelecek sprintler için daha aktif ve enerjik olabilmesi için zaman planlaması yapılmasına karar verilmiştir.
 
 
 ---
