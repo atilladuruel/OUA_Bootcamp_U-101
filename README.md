@@ -105,10 +105,6 @@ Sprint Review katılımcıları: Tüm Takım
 
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/b5461e9a571946b7dcd189f6dd1c45fad6eab119/ProjectManagement/Sprint2Documents/Screenshot_1.png)
-
-
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_1_.png)
   ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_2.png)
