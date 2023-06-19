@@ -5,10 +5,12 @@ Ghostly Games
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
-- Muhammed Mustafa Aksoy: Scrum Master / Product Owner / Developer
-- Sümeyye Aydoğan: Developer
-- Yunus Emre Gürel: Developer
-- Zeynep Nur Meşe: Aktif Olmayan Üye
+- Atilla Duruel: Developer
+- Burak Seki: Product Owner
+- Fatma Sare Duman: Scrum Master
+- Nurbanu Bayatlı: Developer
+- Ömer Çiftçi: Developer
+
 
 ## Ürün İsmi
 
