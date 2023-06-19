@@ -76,14 +76,10 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
-- **Sprint board update**: 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
   ![Screenshot 2](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/ffacf45b928d07f2acd2b575c7013d732fbfc427/ProjectManagement/Sprint1Documents/kod2.jpeg)
-  ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_1_.png)
-  ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_2.png)
-  ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_3.png)
   
 - **Sprint Review**: 
 Alınan kararlar: Takım içinde görev dağılımı yapılmış, oyun temasına ve karakter görünümüme karar verilmiş, temel bazı kodlar düzenlenmiştir.
@@ -106,16 +102,17 @@ Alınan kararlar: Takım içinde görev dağılımı yapılmış, oyun temasına
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/DailyScrumMeetingNotesSprint2.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2022-05-22%2019_25_30-Window.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/1.jpeg)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/2.jpeg)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint2Documents/3.jpeg)
+  ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_1_.png)
+  ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_2.png)
+  ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_3.png)
+  
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve eksiklikleri değerlendirilmiştir. 
 Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
