@@ -106,9 +106,11 @@ Sprint Review katılımcıları: Tüm Takım
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_1_.png)
-  ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_2.png)
-  ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/05609e4369595c8d8b9d25906ae8c1d45e9809ee/ProjectManagement/Sprint1Documents/goruntu_3.png)
+  ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/G2.png)
+  ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g1.png)
+  ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g3.png)
+  ![Screenshot 6](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g4.png)
+  ![Screenshot 7](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g5.png)
   
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmıştır.
