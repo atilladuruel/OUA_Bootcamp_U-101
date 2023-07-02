@@ -75,7 +75,7 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. (https://miro.com/app/board/uXjVM9Lqd1c=/)
+- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. [Toplantı Notları](https://miro.com/app/board/uXjVM9Lqd1c=/)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
@@ -95,7 +95,7 @@ Sprint Review katılımcıları: Tüm Takım
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Unity Team 101 Miro Backlog Board](https://miro.com/app/board/uXjVM9Tx01c=/)
 
 ---
 
@@ -103,7 +103,7 @@ Sprint Review katılımcıları: Tüm Takım
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. [Toplantı Notları](https://miro.com/app/board/uXjVM9Lqd1c=/)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/G2.png)
@@ -125,13 +125,13 @@ Sprint Review katılımcıları: Tüm Takım
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Unity Team 101 Miro Backlog Board](https://miro.com/app/board/uXjVM9Tx01c=/)
 
 ---
 
 # Sprint 3
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 240'tır.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 120 puan
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
