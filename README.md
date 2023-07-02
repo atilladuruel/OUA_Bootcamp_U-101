@@ -18,7 +18,7 @@ The Underworld Journey
 
 ## Product Backlog URL
 
-[Unity Team 101 Miro Backlog Board]([https://miro.com/app/board/uXjVM9Tx01c=/])
+[Unity Team 101 Miro Backlog Board](https://miro.com/app/board/uXjVM9Tx01c=/)
 
 ## Ürün Açıklaması
 
