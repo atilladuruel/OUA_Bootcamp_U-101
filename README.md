@@ -75,7 +75,7 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 340 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir.
+- **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. (https://miro.com/app/board/uXjVM9Lqd1c=/)
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
