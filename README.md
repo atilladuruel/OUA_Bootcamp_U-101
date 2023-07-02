@@ -80,6 +80,11 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
   ![Screenshot 2](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/ffacf45b928d07f2acd2b575c7013d732fbfc427/ProjectManagement/Sprint1Documents/kod2.jpeg)
+  ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/G2.png)
+  ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g1.png)
+  ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g3.png)
+  ![Screenshot 6](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g4.png)
+  ![Screenshot 7](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g5.png)
   
 - **Sprint Review**: 
 Alınan kararlar: Takım içinde görev dağılımı yapılmış, oyun temasına ve karakter görünümüme karar verilmiş, temel bazı kodlar düzenlenmiştir.
