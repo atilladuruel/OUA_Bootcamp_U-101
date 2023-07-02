@@ -109,6 +109,8 @@ Sprint Review katılımcıları: Tüm Takım
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 Puan
 
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. [Toplantı Notları](https://miro.com/app/board/uXjVM9Lqd1c=/)
+  
+- **Game Design Document:
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
