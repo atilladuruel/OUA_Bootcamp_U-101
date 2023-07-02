@@ -110,10 +110,13 @@ Sprint Review katılımcıları: Tüm Takım
 
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. [Toplantı Notları](https://miro.com/app/board/uXjVM9Lqd1c=/)
   
-- **Game Design Document:
+- **Game Design Document: ![Game Design](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/GDD_The%20Underworld%20Journey.docx)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-
+  ![Screenshot 8](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/ARE_YOU_SURE.png)
+  ![Screenshot 9](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/CREDITS.png)
+  ![Screenshot 10](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/MENU.png)
+  ![Screenshot 11](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/SETTINGS.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmıştır.
