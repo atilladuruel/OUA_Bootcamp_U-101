@@ -76,6 +76,9 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının zaman uyuşmazlığı nedeniyle bazılarının Whatsapp üzerinden bazılarının discord üzerinden sesli yapılmasına karar verilmiştir. [Toplantı Notları](https://miro.com/app/board/uXjVM9Lqd1c=/) [Ekran Görüntüsü Örnekleri](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5dd15709abc337ffad1c8575a9c25a8db611e4cb/ProjectManagement/Sprint1Documents/Toplant%C4%B1%20Notlar%C4%B1%201.Sprint.docx?raw=true)
+  
+- **Sprint board update**: Sprint board screenshotları: 
+![Backlog 1]() 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/e7ae72b3f3c8801f194b1ec675f876b0bfd55ad4/ProjectManagement/Sprint1Documents/kod.jpeg)
@@ -143,11 +146,12 @@ Sprint Review katılımcıları: Tüm Takım
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-
+![Backlog 1](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-18%20001614.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  
+  ![Screenshot 12](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Screenshot_1.png)
+  ![Screenshot 13](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Screenshot_2.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
