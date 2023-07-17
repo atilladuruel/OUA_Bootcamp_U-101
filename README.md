@@ -155,6 +155,8 @@ Sprint Review katılımcıları: Tüm Takım
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 12](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Screenshot_1.png)
   ![Screenshot 13](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Screenshot_2.png)
+  ![Screenshot 14](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5aab783b862044e5d0570310240c46560d8f3e4f/ProjectManagement/Sprint3Documents/Screenshot_3.png)
+  ![Screenshot 15](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5aab783b862044e5d0570310240c46560d8f3e4f/ProjectManagement/Sprint3Documents/Screenshot_4.png)
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
