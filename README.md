@@ -160,11 +160,11 @@ Sprint Review katılımcıları: Tüm Takım
 
 - **Sprint Review**: 
 Alınan kararlar: Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. 
-Sprint Review katılımcıları: Mustafa Aksoy, Yunus Emre Gürel, Sümeyye Aydoğan 
+Sprint Review katılımcıları: Tüm takım üyeleri
 
 - **Sprint Retrospective:**
 
-  - Takım üyelerinin gelecek projelerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+  - Takım üyelerinin planlamalara daha uygun hareket etmesi ve ortak zaman yaratma konusunda hevesli olmasına karar verildi.
 
 
 ---
