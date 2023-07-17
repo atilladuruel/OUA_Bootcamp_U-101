@@ -146,7 +146,7 @@ Sprint Review katılımcıları: Tüm Takım
 - **Sprint içinde tamamlanması tahmin edilen puan**: 120 puan
 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint3Documents/DailyScrumMeetingNotesSprint3.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/756bd92d613b48fd7824733663dd27384aa3f585/ProjectManagement/Sprint3Documents/Dailychats3.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/5da1841fa16a36af4e8f74bc52f5b2143eec44f7/ProjectManagement/Sprint3Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-18%20001614.png) 
