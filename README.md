@@ -87,9 +87,7 @@ Bu şekilde bir oyun, ana karakterin hikayesini tamamlamak için birincil fonksi
   ![Screenshot 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/G2.png)
   ![Screenshot 4](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g1.png)
   ![Screenshot 5](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g3.png)
-  ![Screenshot 6](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g4.png)
-  ![Screenshot 7](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g5.png)
-  
+ 
 - **Sprint Review**: 
 Alınan kararlar: Takım içinde görev dağılımı yapılmış, oyun temasına ve karakter görünümüme karar verilmiş, temel bazı kodlar düzenlenmiştir.
 Sprint Review katılımcıları: Tüm Takım
@@ -119,6 +117,8 @@ Sprint Review katılımcıları: Tüm Takım
 - ![Backlog 3](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/aa90cd20babe2ddaaa3a1661e92d1174fced1445/ProjectManagement/Sprint2Documents/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202023-07-18%20001425.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
+  ![Screenshot 6](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g4.png)
+  ![Screenshot 7](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/6f6fd9441676c897ae77b23cecdb2467eda265f0/ProjectManagement/Sprint2Documents/g5.png)
   ![Screenshot 8](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/ARE_YOU_SURE.png)
   ![Screenshot 9](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/CREDITS.png)
   ![Screenshot 10](https://github.com/atilladuruel/OUA_Bootcamp_U-101/blob/8b58deefb6bb2b378fcc5cb64a43e31d7f02d9e6/ProjectManagement/Sprint2Documents/MENU.png)
