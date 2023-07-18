@@ -6,15 +6,15 @@ using TMPro;
 
 public class AudioController : MonoBehaviour
 {
-//Ses ayarları
+    //Ses ayarları
     public AudioSource backgroundSound;
     public Slider volumeSlider;
     public TextMeshProUGUI volumePercentageText;
 
 
-    private void Start() 
+    private void Start()
     {
-        volumeSlider.onValueChanged.AddListener(OnVolumeChanged);   
+        volumeSlider.onValueChanged.AddListener(OnVolumeChanged);
     }
     private void OnVolumeChanged(float value)
     {
@@ -23,6 +23,6 @@ public class AudioController : MonoBehaviour
     public void UpdateVolumeText()
     {
         int volumePercentage = Mathf.RoundToInt(volumeSlider.value * 100f);
-        volumePercentageText.text = volumePercentage.ToString() + "%";
+        volumePercentageText.text = "%" + volumePercentage.ToString();
     }
 }

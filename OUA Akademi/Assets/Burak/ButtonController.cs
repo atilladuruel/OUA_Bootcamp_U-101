@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class ButtonController : MonoBehaviour
-{  
-    
-     //Click sesi ayarları-----
+{
+
+    //Click sesi ayarları-----
     public AudioClip clickSound;
     private AudioSource audioSource;
 
@@ -16,14 +16,15 @@ public class ButtonController : MonoBehaviour
     public GameObject settingsButton;
     public GameObject quitButton;
     public GameObject backButton;
+    public GameObject menuButton;
 
     //Panel ayarları---------
-    public GameObject confirmationPanel;  
+    public GameObject confirmationPanel;
     public GameObject menuPanel;
     public GameObject settingsPanel;
     public GameObject creditsPanel;
 
-    private void Start() 
+    private void Start()
     {
         menuPanel.SetActive(true);
         settingsPanel.SetActive(false);
@@ -32,7 +33,7 @@ public class ButtonController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
 
         //Eğer bir audiosource bileşeni yoksa, oluşturulup clicksoundu atayım
-        if(audioSource == null)
+        if (audioSource == null)
         {
             audioSource = gameObject.AddComponent<AudioSource>();
             audioSource.clip = clickSound;
@@ -46,7 +47,7 @@ public class ButtonController : MonoBehaviour
         //Sesin uzunluğu kadar bekleme süresi alıyorum.
         yield return new WaitForSeconds(delay);
         //Ses çalıyor sonra da sahne yükleniyor
-        SceneManager.LoadScene("Burak-1");
+        SceneManager.LoadScene("GameScene");
     }
 
     //Butonlar--------
@@ -54,8 +55,8 @@ public class ButtonController : MonoBehaviour
     {
         audioSource.PlayOneShot(clickSound);
         StartCoroutine(LoadSceneAfterDelay(audioSource.clip.length));
-        
-        
+
+
     }
     public void SettingsButtonClicked()
     {
@@ -66,6 +67,13 @@ public class ButtonController : MonoBehaviour
         audioSource.PlayOneShot(clickSound);
     }
 
+    public void MenuButtonClicked()
+    {
+
+        menuPanel.SetActive(true);
+        audioSource.PlayOneShot(clickSound);
+    }
+
     public void BackButtonClicked()
     {
         audioSource.PlayOneShot(clickSound);
@@ -73,20 +81,21 @@ public class ButtonController : MonoBehaviour
         creditsPanel.SetActive(false);
         menuPanel.SetActive(true);
         backButton.SetActive(false);
-        
-        
+
+
     }
     public void QuitButtonClicked()
     {
         audioSource.PlayOneShot(clickSound);
         confirmationPanel.SetActive(true);
         menuPanel.SetActive(false);
-        
+
     }
     public void YesButtonClicked()
     {
         audioSource.PlayOneShot(clickSound);
         Application.Quit();
+        Debug.Log("Quit");
     }
     public void NoButtonClicked()
     {
