@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Atilla/Scenes/GameScene.unity
+- path: Assets/Burak/Scenes/MenuScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

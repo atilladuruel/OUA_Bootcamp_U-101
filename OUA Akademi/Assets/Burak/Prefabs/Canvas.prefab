@@ -499,7 +499,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: AudioController, Assembly-CSharp
-        m_MethodName: UpdateVolumeText
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -518,11 +518,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 8246964162141192684}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 41f092421564abb4d901a0dd96ffd34e, type: 3}
+  m_Script: {fileID: 11500000, guid: bf4ddf5475863b14686f13194d8cd4df, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   backgroundSound: {fileID: 0}
-  volumeSlider: {fileID: 8246964162141192682}
+  volumeSlider: {fileID: 0}
   volumePercentageText: {fileID: 0}
 --- !u!1 &8246964162201788583
 GameObject:
